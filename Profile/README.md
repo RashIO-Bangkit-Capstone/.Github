@@ -1,5 +1,6 @@
 # Capstone Bangkit Academy C23-PS248
 ## Introduction
+RashIO : RashIO - Eczema, Psoriasis & Dermatitis Skin Detection is an Aplication based Android platform providing solutions for the general public that can be used as first aid for symptoms of rash and itching, which can provide predictions for three types of skin diseases, namely Eczema, Psoriasis, and Dermatitis.
 
 ## Project Scope & Deliverables:
 ### Project Goal:
