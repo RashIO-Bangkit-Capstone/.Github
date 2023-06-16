@@ -33,4 +33,4 @@ RashIO - Eczema, Psoriasis & Dermatitis Skin Detection is an Aplication based A
 ## Repositories
 - [RashIO-Machine Learning](https://github.com/RashIO-Bangkit-Capstone/ML-RashIO)
 - [RashIO-API](https://github.com/RashIO-Bangkit-Capstone/backend-rashio)
-- [RashIO-Mobile Development](https://github.com/C22-PS001-Capstone/Vee-ML-Deployment)
+- [RashIO-Mobile Development](https://github.com/RashIO-Bangkit-Capstone/RashIO-Mobile)
